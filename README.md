@@ -265,7 +265,7 @@ CC_1632_1632        1632         0  3.0259206314E-14
  <img width="603" height="427.5" alt="7" src="https://github.com/user-attachments/assets/228f17b3-b109-4d3a-9625-b8236d7d42d0" />
 </div>
 
-<p align="center">图 4: 本软件自带求解器生成S参数结果 Solver</p>
+<p align="center">图 4: 本软件自带求解器生成S参数结果</p>
     
     
 - **端口阻抗（Impedance）**：储存于Sur_PEC\Data\Output\Z_in.txt中
