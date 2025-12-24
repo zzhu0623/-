@@ -246,7 +246,8 @@ CC_1632_1632        1632         0  3.0259206314E-14
 
 <div align="center">
  <img width="603" height="427.5" alt="6" src="https://github.com/user-attachments/assets/480179d3-d487-4a66-940e-e32773fbfb68" />
-</div>华大SPICE求解生成S参数结果</ip>
+</div>
+<p align="center">图3.华大SPICE求解生成S参数结果</p>
 
 # 3.4 评估设计表现
 本节展示了由本软件自研求解器求解的结果，得到以下三个结果文档存于`Output`文件夹下：
@@ -260,11 +261,11 @@ CC_1632_1632        1632         0  3.0259206314E-14
    ...
 ```
 
-    <div align="center">
-     <img width="603" height="427.5" alt="7" src="https://github.com/user-attachments/assets/228f17b3-b109-4d3a-9625-b8236d7d42d0" />
-    </div>
+<div align="center">
+ <img width="603" height="427.5" alt="7" src="https://github.com/user-attachments/assets/228f17b3-b109-4d3a-9625-b8236d7d42d0" />
+</div>
 
-    <p align="center">Figure 4: 本软件自带求解器生成S参数结果 Solver</p>
+<p align="center">图 4: 本软件自带求解器生成S参数结果 Solver</p>
     
     
 - **端口阻抗（Impedance）**：储存于Sur_PEC\Data\Output\Z_in.txt中
